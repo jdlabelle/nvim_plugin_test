@@ -7,6 +7,14 @@ practical tutorial for myself.
 
 [Link to the first video](https://youtu.be/VGid4aN25iI?si=797jaI2L_jlLAs4_)
 
+# Features
+
+Can execute code in lua blocks when you have them in a slide
+
+```lua
+print("Hello World", 21, true)
+```
+
 # Usage
 
 ```lua
