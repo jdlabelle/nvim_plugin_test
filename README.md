@@ -20,11 +20,19 @@ print("Hello World", 21, true)
 Can execute code in other language blocks when you have them in a slide
 
 You may need to configure this with `opts.executors`.
-Currently Python and Javascript included by default.
+Python and Javascript included by default.
 
 ```python
 num = 21
 print(f"The magic number is {num}")
+```
+
+# Installation
+
+```lua
+{
+  'jdlabelle/nvim_plugin_test',
+}
 ```
 
 # Usage
