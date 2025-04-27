@@ -19,7 +19,7 @@ print("Hello World", 21, true)
 
 Can execute code in other language blocks when you have them in a slide
 
-You may need to configure this with `opt.executors`.
+You may need to configure this with `opts.executors`.
 Currently Python and Javascript included by default.
 
 ```python
