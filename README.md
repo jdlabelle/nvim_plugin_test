@@ -19,8 +19,8 @@ print("Hello World", 21, true)
 
 Can execute code in other language blocks when you have them in a slide
 
-You may need to configure this with `opt.execturors`.
-Currently only Python and Javascript included by default.
+You may need to configure this with `opt.executors`.
+Currently Python and Javascript included by default.
 
 ```python
 num = 21
@@ -39,5 +39,5 @@ Use `n` and `p` to navigate markdown slides. `q` to quit.
 
 Use `X` to execute code blocks
 
-# Credits
-TJ Devries
+# Credit
+[TJ Devries](https://github.com/tjdevries)
